@@ -33,7 +33,7 @@ So I created an easy-to-use solution based on github actions and [GabLeRoux](htt
 
 [![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/webbertakken/unity-actions)
 [![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/webbertakken/unity-builder)
-[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=unity-ci&repo=docker&theme=radical&show_icons=true)](https://github.com/unity-ci/docker)
+[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=unity-ci&repo=docker&theme=radical&show_icons=true&v0)](https://github.com/unity-ci/docker)
 [![Unity CI Versioning](https://github-readme-stats.vercel.app/api/pin/?username=unity-ci&repo=versioning-backend&theme=radical&show_icons=true)](https://github.com/unity-ci/versioning-backend)
 
 Feel free to join us on [discord](http://unity-ci.com/discord) and engage with the community.
