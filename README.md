@@ -29,14 +29,16 @@ Our main goal is to both learn and have fun; I'm learning game programming while
 
 I found that in the Unity community there is very little knowledge and documentation about continuous integration.
 
-So I created an easy-to-use solution based on github actions and [GabLeRoux](https://github.com/GabLeRoux)' docker [images](https://hub.docker.com/r/gableroux/unity3d), that aims to help even new developers setup their CI pipeline.
+So I created an easy-to-use solution based on github actions that aims to help both experienced and new developers setup their CI pipeline.
 
-[![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/webbertakken/unity-actions)
-[![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/webbertakken/unity-builder)
-[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=unity-ci&repo=docker&theme=radical&show_icons=true&v0)](https://github.com/unity-ci/docker)
-[![Unity CI Versioning](https://github-readme-stats.vercel.app/api/pin/?username=unity-ci&repo=versioning-backend&theme=radical&show_icons=true)](https://github.com/unity-ci/versioning-backend)
+[![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/game-ci/unity-actions)
+[![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/game-ci/unity-builder)
+[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=docker&theme=radical&show_icons=true&v0)](https://github.com/game-ci/docker)
+[![Unity CI Versioning](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=versioning-backend&theme=radical&show_icons=true)](https://github.com/game-ci/versioning-backend)
 
-Feel free to join us on [discord](http://unity-ci.com/discord) and engage with the community.
+Together with [GabLeRoux](https://github.com/GabLeRoux) and the community we also republished a series of CI images and started [GameCI](https://game.ci), which now gouverns all mentioned repositories.
+
+Feel free to join the GameCI community on [discord](http://game.ci/discord)!
 
 ## 🤔 I’m looking for help with ...
 
