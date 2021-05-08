@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hey 👋 I'm Webber 👨‍💻
+# Hey, I'm Webber 👋
 
 ## About me
 
 - 😄 He/Him
-- 👨‍🔧 Software Engineer
+- 👨‍💻 Software Engineer
 - 🌎 From Holland
 - 📌 Stationed in Berlin
 - ❤ Open source
