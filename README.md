@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 - 😄 He/Him
 - 👨‍💻 Software Engineer
-- 🌎 From Holland
-- 📌 Stationed in Berlin
+- 🌎 From the country in Holland
+- 📌 Stationed in Berlin, Germany
 - ❤ Open source
 - 💻 Website at [Takken.io](https://takken.io)
 - 😅 Took my first programming course in 2001 (html for beginners)
