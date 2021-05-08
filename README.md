@@ -54,6 +54,10 @@ Here are some ideas to get you started:
         <span>VS Code</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="100px" align="center">
+        <span>Designer</span><br><br><br>
+        <img height="64px" src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-icon-090520190839.svg">
+      </td>
     </tr>
   </tbody>
 </table>
