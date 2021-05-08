@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 - 👨‍🔧 Software Engineer
 - 🌎 From Holland
 - 📌 Stationed in Berlin
-- ⚡ Took my first programming course in 2001 (html for beginners)
+- ❤ Open source
+- 💻 Website at [Takken.io](https://takken.io)
+- 😅 Took my first programming course in 2001 (html for beginners)
 
 ## 📈 Stats
 
