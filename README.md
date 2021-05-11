@@ -22,8 +22,7 @@ Here are some ideas to get you started:
 - 🌎 From the country in Holland
 - 📌 Stationed in Berlin, Germany
 - ❤ Open source
-- 💻 Website at [Takken.io](https://takken.io)
-- 😅 Took my first programming course in 2001 (html for beginners)
+- 💻 [Takken.io](https://takken.io)
 
 ## 📈 Stats
 
