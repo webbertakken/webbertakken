@@ -71,8 +71,8 @@ GameCI is an open-source community that offers an easy-to-use solution for devel
 
 [![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/game-ci/unity-actions)
 [![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/game-ci/unity-builder)
-[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=docker&theme=radical&show_icons=true&v0)](https://github.com/game-ci/docker)
-[![Unity CI Versioning](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=versioning-backend&theme=radical&show_icons=true)](https://github.com/game-ci/versioning-backend)
+[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=docker&theme=radical&show_icons=true)](https://github.com/game-ci/docker)
+[![Documentation](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=documentation&theme=radical&show_icons=true)](https://github.com/game-ci/documentation)
 
 Feel free to join the GameCI community on [discord](http://game.ci/discord)!
 
