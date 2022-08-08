@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## About me
 
 - 😄 He/Him
+- 🌈 Ally
 - 👨‍💻 Software Engineer
 - 🌎 From the country in Holland
 - 📌 Stationed in Berlin, Germany
