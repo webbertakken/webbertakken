@@ -83,8 +83,15 @@ GameCI is an open-source community that offers an easy-to-use solution for devel
 
 Feel free to join the GameCI community on [discord](http://game.ci/discord)!
 
-### DinoTD
+### Death Arena
 
-[Fiztban](https://github.com/Fiztban) and I are working on a simple tower defense game.
+A little game inspired by Death Rally. Built in Rust using Bevy-engine.
 
-Our goal is to learn about game development, 3d modeling and animations. We have a closed alpha running for PC on Steam.
+[![Death Arena](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=death-arena&theme=radical&show_icons=true)](https://github.com/webbertakken/death-arena)
+
+### Map Editor 2D
+
+A lightweight 2D editor that exports scenes as JSON-files.
+
+[![Map Editor 2D](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=map-editor-2d&theme=radical&show_icons=true)](https://github.com/webbertakken/map-editor-2d)
+
