@@ -17,13 +17,16 @@ Here are some ideas to get you started:
 
 ## About me
 
-- 😄 He/Him
-- 🌈 Ally
-- 👨‍💻 Software Engineer
-- 🌎 From the country in Holland
-- 📌 Stationed in Berlin, Germany
-- ❤ Open source
-- 💻 [Takken.io](https://takken.io)
+- 😄 He/Him.
+- 🌈 Ally.
+- 👨‍💻 Techie.
+- 🌎 From the country in Holland.
+- 📌 Stationed in Berlin, Germany.
+- ✈️ My favourite hobbies are traveling, skiing, diving and meeting different people.
+- 🧡 I love community, open source, equality, kindness and user centered design.
+- 💬 Talk to me about applied psychology and software/systems architecture.
+- 💻 Find my blog at [Takken.io](https://takken.io).
+- 📧 Drop me a line at webber@takken.io.
 
 ## 🛠 Tools I use
 
@@ -92,14 +95,12 @@ Here are some ideas to get you started:
 
 [GameCI](https://game.ci/) is an open-source community that offers an easy-to-use solution for developers to build, test and deploy their Unity projects.
 
-Founded by [GabLeRoux](https://github.com/GabLeRoux) and myself in 2019, it is now used by thousands of projects and teams.
+Founded by [GabLeRoux](https://github.com/GabLeRoux) and myself in 2019, it is now used by thousands of projects and teams. Join us on [Discord](http://game.ci/discord)!
 
 [![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/game-ci/unity-actions)
 [![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/game-ci/unity-builder)
 [![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=docker&theme=radical&show_icons=true)](https://github.com/game-ci/docker)
 [![Documentation](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=documentation&theme=radical&show_icons=true)](https://github.com/game-ci/documentation)
-
-Feel free to join the GameCI community on [discord](http://game.ci/discord)!
 
 ### Death Arena
 
