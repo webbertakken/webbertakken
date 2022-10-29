@@ -31,6 +31,14 @@ Here are some ideas to get you started:
   <tbody>
     <tr valign="top">
       <td width="100px" align="center">
+        <span>Windows</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/microsoft-windows.svg">
+      </td>
+      <td width="100px" align="center">
+        <span>Ubuntu</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/ubuntu.svg">
+      </td>
+      <td width="100px" align="center">
         <span>Git</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
@@ -39,12 +47,22 @@ Here are some ideas to get you started:
         <img height="64px" src="https://cdn.svgporn.com/logos/docker-icon.svg">
       </td>
       <td width="100px" align="center">
+        <span>Rust</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/rust.svg">
+      </td>
+    </tr>
+    <tr>
+      <td width="100px" align="center">
         <span>WebStorm</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/webstorm.svg">
       </td>
       <td width="100px" align="center">
+        <span>GoLand</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/goland.svg">
+      </td>
+      <td width="100px" align="center">
         <span>Rider</span><br><br><br>
-        <img height="64px" src="https://blog.jetbrains.com/wp-content/uploads/2019/01/rider_icon.svg">
+        <img height="64px" src="https://cdn.svgporn.com/logos/rider.svg">
       </td>
       <td width="100px" align="center">
         <span>VS Code</span><br><br><br>
@@ -72,9 +90,9 @@ Here are some ideas to get you started:
 
 ### GameCI
 
-Together with [GabLeRoux](https://github.com/GabLeRoux) I have layed the foundations for GameCI.
+[GameCI](https://game.ci/) is an open-source community that offers an easy-to-use solution for developers to build, test and deploy their Unity projects.
 
-GameCI is an open-source community that offers an easy-to-use solution for developers to build, test and deploy their Unity projects.
+Founded by [GabLeRoux](https://github.com/GabLeRoux) and myself in 2019, it is now used by thousands of projects and teams.
 
 [![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/game-ci/unity-actions)
 [![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/game-ci/unity-builder)
@@ -85,13 +103,13 @@ Feel free to join the GameCI community on [discord](http://game.ci/discord)!
 
 ### Death Arena
 
-A little game inspired by Death Rally. Built in Rust using Bevy-engine.
+A little game inspired by Death Rally ([playable](https://webbertakken.github.io/death-arena/)). Built in Rust using Bevy-engine.
 
 [![Death Arena](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=death-arena&theme=radical&show_icons=true)](https://github.com/webbertakken/death-arena)
 
 ### Map Editor 2D
 
-A lightweight 2D editor that exports scenes as JSON-files.
+A lightweight 2D editor ([video](https://github.com/webbertakken/map-editor-2d#demo)) that exports scenes as JSON-files.
 
 [![Map Editor 2D](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=map-editor-2d&theme=radical&show_icons=true)](https://github.com/webbertakken/map-editor-2d)
 
