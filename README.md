@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 - 🌈 Ally.
 - 👨‍💻 Techie.
 - 🌎 From the country in Holland.
-- 📌 Stationed in Berlin, Germany.
 - ✈️ My favourite hobbies are traveling, skiing, diving and meeting different people.
 - 🧡 I love community, open source, equality, kindness and user centered design.
 - 💬 Talk to me about applied psychology and software/systems architecture.
