@@ -77,39 +77,3 @@ Here are some ideas to get you started:
     </tr>
   </tbody>
 </table>
-
-
-## 📈 Some stats
-
-<div>
-  <a href="https://github.com/webbertakken">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=webbertakken&count_private=true&theme=radical&show_icons=true"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webbertakken&layout=compact&langs_count=16&theme=radical"/>
-  </a>
-</div>
-
-## Projects
-
-### GameCI
-
-[GameCI](https://game.ci/) is an open-source community that offers an easy-to-use solution for developers to build, test and deploy their Unity projects.
-
-Founded by [GabLeRoux](https://github.com/GabLeRoux) and myself in 2019, it is now used by thousands of projects and teams. Join us on [Discord](http://game.ci/discord)!
-
-[![Unity Actions](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-actions&theme=radical&show_icons=true)](https://github.com/game-ci/unity-actions)
-[![Unity Builder](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=unity-builder&theme=radical&show_icons=true)](https://github.com/game-ci/unity-builder)
-[![Unity CI Images](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=docker&theme=radical&show_icons=true)](https://github.com/game-ci/docker)
-[![Documentation](https://github-readme-stats.vercel.app/api/pin/?username=game-ci&repo=documentation&theme=radical&show_icons=true)](https://github.com/game-ci/documentation)
-
-### Death Arena
-
-A little game inspired by Death Rally ([playable](https://webbertakken.github.io/death-arena/)). Built in Rust using Bevy-engine.
-
-[![Death Arena](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=death-arena&theme=radical&show_icons=true)](https://github.com/webbertakken/death-arena)
-
-### Map Editor 2D
-
-A lightweight 2D editor ([video](https://github.com/webbertakken/map-editor-2d#demo)) that exports scenes as JSON-files.
-
-[![Map Editor 2D](https://github-readme-stats.vercel.app/api/pin/?username=webbertakken&repo=map-editor-2d&theme=radical&show_icons=true)](https://github.com/webbertakken/map-editor-2d)
-
